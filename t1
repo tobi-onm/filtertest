@@ -9,6 +9,7 @@
 ! GitHub pull requests: https://github.com/uBlockOrigin/uAssets/pulls
 
 ||test1.com^
+||test2.com^asdtest
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/53254
 *$script,redirect-rule=noopjs,domain=arcai.com
